@@ -1,0 +1,2 @@
+com\sentinelstream\rules\PathTraversalDetectorTest.class
+com\sentinelstream\rules\SqlInjectionDetectorTest.class
